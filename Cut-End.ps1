@@ -8,7 +8,7 @@ $OutputDir = "C:\OutFiles"
 $MIPath = "D:\mkvtoolnix\MediaInfo"
 
 #Mkvtoolnix path (w/o \ at end)
-$MkvToolPath = 'D:\mkvtoolnix'
+$MkvToolPath = "D:\mkvtoolnix"
 
 #Time to cut from end
 $STime = New-TimeSpan -Minutes 1 -Seconds 30
